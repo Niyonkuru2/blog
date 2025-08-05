@@ -1,11 +1,6 @@
-## 📝 Initial `README.md` File
-
-Here’s the first version of your project’s `README.md`:
-
-````md
 # 📝 Modern Blog Website
 
-A full-featured, modern blog platform built with **Next.js**, **Prisma**, **PostgreSQL**, and **Tailwind CSS**. It supports dynamic content, markdown, comments, search, author dashboard, and SEO optimization.
+A full-featured, modern blog platform built with **Next.js**, **Prisma**, **MongoDb**, and **Tailwind CSS**. It supports dynamic content, markdown, comments, search, author dashboard, and SEO optimization.
 
 ---
 
