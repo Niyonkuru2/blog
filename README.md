@@ -115,19 +115,6 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## 📜 License
 
-MIT © \[Your Name]
+MIT © NIYONKURU Samuel
 
-```
-
----
-
-## ✅ Next Steps
-
-Would you like me to:
-
-1. Generate the **Prisma schema** for models like `User`, `Post`, `Comment`, `Category`?
-2. Set up the **Next.js app with Tailwind** (you can copy-paste a starter command)?
-3. Create some sample **components/pages** to get started?
-
-Let me know where you'd like to go next!
 ```
